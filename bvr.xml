@@ -1,0 +1,25 @@
+<Master>
+  <title>Vishwanath Rao</title>
+  <topic>
+    <title>Aritificial Intelligence</title>
+    <subject>Machine Learning</subject>
+    <subject>Deep Learning</subject>
+    <subject>NLP</subject>
+    <subject>Blue Prism</subject>
+    <subject>UIPath</subject>
+    <subject>Python</subject>
+  </topic>
+  <topic>
+    <title>Devops</title>
+    <subject>Jenkins</subject>
+     <subject>Ansible</subject>
+      <subject>Puppet</subject>
+       <subject>GIT</subject>
+        <subject>Kubernates</subject>
+  </topic>
+</Master>
+
+
+
+
+
